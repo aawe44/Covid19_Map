@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map.gif)
+![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map_t1.gif)
 
 
 |![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)|![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
