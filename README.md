@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Google map of Covid19 confirmed cases
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
