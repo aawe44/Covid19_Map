@@ -2,10 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
 ![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map.gif)
 
-![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)
-![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
+
+|![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)|![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
+|---------------------------------------------|---------------------------------------------|
+|County Level |State Level|
+
+
 
 ## Available Scripts
 
