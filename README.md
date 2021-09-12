@@ -1,15 +1,26 @@
-# Google map of Covid19 confirmed cases
+# Scatter plot on Google Map
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visualization of the covid-19 confirmed cases in the United State.
 
 ## Demo
 
 ![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/covid19_map_t1.gif)
 
 
-|![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)|![Screen 1](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
+|![County Level](https://github.com/aawe44/pic_covid19_map/blob/main/image_county.png)|![State Level](https://github.com/aawe44/pic_covid19_map/blob/main/image_state.png)
 |---------------------------------------------|---------------------------------------------|
 |County Level |State Level|
+
+
+## Developers
+### Install (First time only)
+```
+npm install       
+```
+### Usage
+```
+npm start       
+```
 
 
 
